@@ -3,7 +3,8 @@
 ## 🔭 I’m currently working on pro project
 ## 📫 Discord: Matz#1715
 
-https://i.imgur.com/SQUhP5T.gif
+![SQUhP5T](https://user-images.githubusercontent.com/59419707/114265561-206fbe80-99fa-11eb-8d3b-48e97294b612.gif)
+
 <!--
 **DaMatzii/DaMatzii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
