@@ -3,6 +3,7 @@
 ## 🔭 I’m currently working on pro project
 ## 📫 Discord: Matz#1715
 
+https://i.imgur.com/SQUhP5T.gif
 <!--
 **DaMatzii/DaMatzii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
